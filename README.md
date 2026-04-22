@@ -9,6 +9,7 @@ I build workflows that eliminate manual work.
 
 ## Projects
 - [Leave Request Approval] (https://github.com/uzairio/n8n-leave-request-approval) — automated staff leave system with clash detection
+- [Dues Reminder] (https://github.com/uzairio/n8n-dues-reminder) — automated bills reminder for better management
 - [Youtube content automation] (https://github.com/uzairio/AI-youtube-content-automation) — automation youtube video generation and uploading
 - [More coming soon...]
 
